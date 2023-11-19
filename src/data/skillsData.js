@@ -4,9 +4,9 @@
     'Javascript',
     'Angular',
     'Azure',
-    'SQL Server',
-    'My SQL',
-    'Mongo DB'
+    'SQLServer',
+    'MySQL',
+    'MongoDB'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
