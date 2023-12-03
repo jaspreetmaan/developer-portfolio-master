@@ -3,7 +3,7 @@ export const experienceData = [
         id: 1,
         company: 'Pizone Infotech Pvt. Ltd',
         jobtitle: 'Full Stack Developer',
-        startYear: 'Sep 2022',
+        startYear: 'Oct 2022',
         endYear: 'Persent'
     },
     {
